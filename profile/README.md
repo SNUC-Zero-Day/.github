@@ -1,3 +1,3 @@
 ## Welcome Aboard 🙋‍♂️
 
-![sn](https://user-images.githubusercontent.com/96528048/203910313-96a1f79f-f8f8-4aa9-84d5-7bb663f03c1a.jpg)
+![SNURF](https://user-images.githubusercontent.com/96528048/204016130-9955f015-8733-4f76-b8aa-c24e6dd78383.png)
