@@ -45,8 +45,14 @@ The Threshold is set Pretty High. One should have an Advanced/Intermediete Knowl
 You can use Github through a web portal or desktop GUI or Git shell. (Source: https://medium.com/swlh/things-about-git-and-github-you-need-to-know-as-developer-907baa0bed79)
 
 
+### Contributing
 
+> Contributing requires you to Satisfy all the Necessary Prerequisites and to be part of the Core Team
 
+Ping @SNU-Red-Force/vismbs to get yourself Approved. You will receive an Invitation Email asking you to be the Member of the Organization.
 
+### Conclusion
 
+SNU Red Force aims to be the Greatest in the whole of SNU/SSN in terms of Cybersecurity and the Members of the Organization will undergo Extensive Training to statisfy the Needs of the Organization which will shape them into a better Pentester. We'll Participate in CTFs, Bug Bountry Programme and Etetera.
 
+Author: @vismbs --> _Touch Some Grass 🌿 and Hack Some Computers 🖥️_
