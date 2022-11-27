@@ -54,7 +54,7 @@ Ping https://github.com/vismbs to get yourself Approved. You will receive an Inv
 
 ### Conclusion
 
-SNU Red Force aims to be the Greatest in the whole of SNU/SSN in terms of Cybersecurity and the Members of the Organization will undergo Extensive Training to statisfy the Needs of the Organization which will shape them into a better Pentester. We'll Participate in CTFs, Bug Bountry Programme and Etetera.
+SNU Red Force aims to be the Greatest in the whole of SNU/SSN in terms of Cybersecurity and the Members of the Organization will undergo Extensive Training to statisfy the Needs of the Organization which will shape them into a better Pentester. We'll Participate in CTFs, Bug Bountry Programme and Etcetera.
 
 Author: https://github.com/vismbs --> _Touch Some Grass 🌿 and Hack Some Computers 🖥️_
 
