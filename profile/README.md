@@ -16,7 +16,7 @@ SNU Red Force is an Organization or a Team of Offensive Security Enthusiasts who
 
 ### Prerequisites
 
-The Threshold is set Pretty High. One should have an Advanced/Intermediete Knowledge in these Topics. Since Cybersecurity is a Vast Field, the requirments to enter the field is also pretty vast. Hence, getting over this in the initial phase is better than getting stuck in the middle.
+The Threshold is set Pretty High. One should have an Advanced/Intermediate Knowledge in these Topics. Since Cybersecurity is a Vast Field, the requirements to enter the field is also pretty vast. Hence, getting over this in the initial phase is better than getting stuck in the middle.
 
 1. GNU/Linux
 2. Low | Middle | High-Level Languages
