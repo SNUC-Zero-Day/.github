@@ -1,4 +1,4 @@
-# SNU Red Force (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+# SNUC-Zero-Day (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ## 👾 Welcome Aboard *~~Hackers~~* !!! 👾
 ![Full_Logo](https://user-images.githubusercontent.com/96528048/204222508-9f881b88-46b0-4037-8f47-de2214545a28.png)
 >Inspiration: Offensive Security 
